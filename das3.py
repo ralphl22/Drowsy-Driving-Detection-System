@@ -10,9 +10,6 @@ from gtts import gTTS
 import pygame
 import atexit  # Import the atexit module
 
-
-#
-
 pygame.mixer.init()
 
 def eye_aspect_ratio(eye):

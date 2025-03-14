@@ -18,6 +18,6 @@ Image Storage: Takes a picture of the driver when drowsiness or yawning is detec
 
 **Components**
 
-Software: OpenCV, Dlib, imutils, scipy, GPIOZero, gTTS, pygame
+Software: OpenCV, Dlib, imutils, SciPy, gpiozero, gTTS, Pygame
 
 Hardware: Webcam, LED, Buzzer, LCD Display (I2C)
